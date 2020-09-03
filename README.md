@@ -3,6 +3,6 @@
 
 ### Welcome to my Github Repo. Here you will find...
 
-+ Some of my DevOps from CIT 114. Fall 2020 at Rio Hondo College
++ Some of my DevOps from CIT 114, Fall 2020 at Rio Hondo College
 + Assignments help me gain GitHub experience
 + Other IT projects I may have chosen to share
