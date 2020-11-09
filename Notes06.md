@@ -10,10 +10,10 @@
 2. "Operating in an AWS environment allows customers to take advantage of embedded, automated tools like AWS Security Hub, AWS Config and AWS CloudTrail for validating compliance. These tools reduce the effort needed to perform audits, since these tasks become routine, ongoing, and automated. By spending less time on manual activities, you can help evolve the role of compliance in your company from one of a necessary administrative burden, to one that manages your risk and improves your security posture. " (8.03). <br/>
 
 ### 3. What new facts did you learn from this section?
-An AMI includes the following: One or more EBS snapshots, or, for instance-store-backed AMIs, a template for the root volume of the instance (for example, an operating system, an application server, and applications) <br/>
-Key Benefits Elastic Web-Scale Computing Completely Controlled Flexible Cloud Hosting Services Integrated Reliable Secure Inexpensive Easy to Start <br/>
-Docker vs Kubernetes A fundamental difference between Kubernetes and Docker is that Kubernetes is meant to run across a cluster while Docker runs on a single node <br/>
-Many people who are first introduced to the concept of a container think that containers are exactly like virtual machines. However, the differences are in the details. One significant difference is that virtual machines run directly on a hypervisor, but containers can run on any Linux OS <br/>
++ An AMI includes the following: One or more EBS snapshots, or, for instance-store-backed AMIs, a template for the root volume of the instance (for example, an operating system, an application server, and applications)
++ Key Benefits Elastic Web-Scale Computing Completely Controlled Flexible Cloud Hosting Services Integrated Reliable Secure Inexpensive Easy to Start
++ Docker vs Kubernetes A fundamental difference between Kubernetes and Docker is that Kubernetes is meant to run across a cluster while Docker runs on a single node
++ Many people who are first introduced to the concept of a container think that containers are exactly like virtual machines. However, the differences are in the details. One significant difference is that virtual machines run directly on a hypervisor, but containers can run on any Linux OS
 
 ### 4. What questions remain in your mind after reading this section?
 1. I think the chapter should had dwell a bit more on implementing instances/containers, such as deploying ansible with Docker since it’s a more scalable project than deploying vms which are way more resource intensive. <br/>
