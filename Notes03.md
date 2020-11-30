@@ -1,4 +1,5 @@
-#Notes 03: Cloud Architecture
+#Notes 03: Cloud Global Infrastructure
+
 ### 1. Summarize a few key points made in the readings or videos 
 + The chapter went over the fundamentals of AWS cloud. It delved on concepts such as AWS load balancing, ELB, CW, and AS. It also stated the advantages of using public cloud services: that the setup & operations are intensely automated, including the monitoring. Also, by using correctly load balancing, auto scaling, and even the free or 3rd party monitoring services can save admins a lot of downtime and have more uptime.
 
